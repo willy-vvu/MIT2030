@@ -1,3 +1,5 @@
+---
+---
 # MIT 2030
 
 The built environment surrounds us. The places we eat, sleep, work, and play; clad in brick, concrete, wood, metal, and glass. Costing millions of dollars, each building takes years to design, then years more to construct. From conception to completion, it is critical that every project member is on the same page.
@@ -19,6 +21,8 @@ MIT 2030 is my vision for a fictional future dorm in a speculative MIT, one embo
 ![](2030LogoMockup.png)
 
 ![](2030Form.png)
+
+*DISCLAIMER: This personal project many not be representative of the views or plans of MIT.*
 
 ---
 
