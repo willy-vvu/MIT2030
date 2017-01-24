@@ -1,5 +1,3 @@
----
----
 # MIT 2030
 
 The built environment surrounds us. The places we eat, sleep, work, and play; clad in brick, concrete, wood, metal, and glass. Costing millions of dollars, each building takes years to design, then years more to construct. From conception to completion, it is critical that every project member is on the same page.
