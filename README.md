@@ -18,7 +18,7 @@ MIT 2030 is my vision for a fictional future dorm in a speculative MIT, embodyin
 
 ![](2030Form.png)
 
-*DISCLAIMER: This personal project many not be representative of the views or plans of MIT.*
+*DISCLAIMER: This personal project may not be representative of the views or plans of MIT.*
 
 ---
 
